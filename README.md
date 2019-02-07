@@ -72,5 +72,10 @@ When it comes to the available time slots that we need to have populate, this wi
 >>
 Chad Barbour (Customer)
 @Jason Lari (Deck Helmet) The time slot definition for the Book Appointment action is first defined by the operating hours populated on the related Work Order's Entitlement (assuming the WO is the parent of the SA). If that's blank, then it reverts to the default operating hours defined in the global action settings. If the goal is to use the global actions, I recommend leveraging Entitlements to provide the operating hours.
-  
+
+
+### Customize the Dispatcher Console with Field Sets
+https://help.salesforce.com/articleView?id=pfs_fieldsets.htm
+
+
 ```
