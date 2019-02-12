@@ -35,3 +35,9 @@
   
 ```
 https://www.desynit.com/jennys-admin-tips/salesforce-field-service-lightning-issues-solutions/
+
+#### Book Appointment chatter action is not showing the last slot of the day
+https://success.salesforce.com/issues_view?id=a1p3A0000018BEaQAM
+Add 5 minutes to the last interval of the day
+
+
