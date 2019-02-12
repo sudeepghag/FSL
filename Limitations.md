@@ -34,3 +34,4 @@
   6.3 multiday appointment - for utilization numbers - considers non-working hours asll   
   
 ```
+https://www.desynit.com/jennys-admin-tips/salesforce-field-service-lightning-issues-solutions/
