@@ -8,6 +8,7 @@
     1.1.2 Font & colors
     1.1.3 Field captions cannot be changed
     1.1.4 Photos into report    
+    1.1.5 Table: Repeat row header on each page
 
 2. Mobile App
   2.1 icons for status - SA list
